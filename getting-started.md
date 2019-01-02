@@ -38,34 +38,34 @@ This is an overview of what you can expect to do the first few weeks:
 
 ## 0. Getting Started
 
-*Repave*: To start your onboarding process, we need to get your tech set up! Starting with your computer, if it is not freshly paved, do so by restarting holding `cmd+r` until you reach recovery tools. Erase the Macintosh HD and re-install the OS.
+**Repave (if needed):** To start your onboarding process, we need to get your tech set up! Starting with your computer, if it is not freshly paved, do so by restarting holding `cmd+r` until you reach recovery tools. Erase the Macintosh HD and re-install the OS.
 
-A few notes when setting up your computer:
+
+**On Startup:** A few notes when setting up your computer:
 * Make sure to turn on FileVault
 * Use `imtapps` as your username
 * Use the standard password (Ask colleague if needed. Hint: May the 4th is the day to share)
 
-At IMT, we like to use a consistent, well vetted dev environment. To begin setting this up, install the system dotfiles [using these instructions](https://github.com/mattjmorrison/dotfiles). This will setup consistent dotfiles with the rest of the team. It will also install Vim, tmux, homebrew and other software.
+**Dotfiles:** At IMT, we like to use a consistent, well vetted dev environment. To begin setting this up, install the system dotfiles [using these instructions](https://github.com/mattjmorrison/dotfiles). This will setup consistent dotfiles with the rest of the team. It will also install Vim, tmux, homebrew and other software.
 
-Additional steps should to taken to Set up [development machine](https://github.com/imtapps/dev-docs/wiki/Development-Machine-Setup). (Note: depending on what version of mac you have you may need to use the second IP address for the Internal DNS)
+**Dev Machine:** Additional steps should to taken to Set up [development machine](https://github.com/imtapps/dev-docs/wiki/Development-Machine-Setup). (Note: depending on what version of mac you have you may need to use the second IP address for the Internal DNS)
+Investigate the [system dotfiles](https://github.com/mattjmorrison/dotfiles) structures on your Mac and check out the instructions in the repo. Note: You'll want to create a repo and make any customizations to your dotfiles in the `custom-config` folder, as explained in the repo. This will help eliminate merge conflicts when our dotfiles change.
 `dev note: this file should be updated with the correct IP addresses/instructions`
 
-Additionally, install the following: `dev note: place these in dotfiles install`
+**Homebrew:** Additionally, install the following: `dev note: place these in dotfiles install`
 * brew install hub
 * brew cask install iterm2
 * brew cask install postgresql
-* brew cask install karabiner-elementos
-Investigate the [system dotfiles](https://github.com/mattjmorrison/dotfiles) structures on your Mac and check out the instructions in the repo.
-Note: You'll want to create a repo and make any customizations to your dotfiles in the `custom-config` folder, as explained in the repo. This will help eliminate merge conflicts when our dotfiles change..
+* brew cask install karabiner-elements
 
-There is additional software you'll want to download and many accounts to sign up for. See [full details here](https://github.com/imtapps/dev-docs/wiki/New-Hire-Guide). Make sure you set up 2FA/MFA (Note: help with [connecting git to github with 2FA](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/))
+**2FA/MFA:** There is additional software you'll want to download and many accounts to sign up for. See [full details here](https://github.com/imtapps/dev-docs/wiki/New-Hire-Guide). Make sure you set up 2FA/MFA (Note: help with [connecting git to github with 2FA](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/))
 
-Get [pyenv](https://github.com/pyenv/pyenv) and [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) setup using their respective instructions. This can be tricky, so let someone know if you catch a snag. Now might be a good time to add some shell enhancements and aliases to `custom-config` in your `dotfiles` for `pyenv`
+**Pyenv + Virtualenv:** Get [pyenv](https://github.com/pyenv/pyenv) and [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) setup using their respective instructions. This can be tricky, so let someone know if you catch a snag. Now might be a good time to add some shell enhancements and aliases to `custom-config` in your `dotfiles` for `pyenv`
 
-Replace `caps` with `escape/ctrl` using `Karabiner-Elements` using [these instructions](https://github.com/tekezo/Karabiner-Elements/issues/8#issuecomment-348611260)
+**Caps replace:** Replace `caps` with `escape/ctrl` using `Karabiner-Elements` using [these instructions](https://github.com/tekezo/Karabiner-Elements/issues/8#issuecomment-348611260)
 Except instead of setting `caps` to `no action`
 
-During the first few days of getting started, you'll go around and meet the rest of the IMT Computer Services crew. Our team makes up a small fraction of the total IMT Company, because we are actually a software company within an insurance company! During you're rounds, you'll meet our different Computer Service areas including Support, QA (Quality Assurance), Marketing, MIPS/APPS Developers and other management.
+**Meet and Greet:** During the first few days of getting started, you'll go around and meet the rest of the IMT Computer Services crew. Our team makes up a small fraction of the total IMT Company, because we are actually a software company within an insurance company! During you're rounds, you'll meet our different Computer Service areas including Support, QA (Quality Assurance), Marketing, MIPS/APPS Developers and other management.
 
 
 ## 1. Primer in Dev Environment and Workflow
