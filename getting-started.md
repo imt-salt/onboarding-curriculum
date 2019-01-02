@@ -34,11 +34,11 @@ This is an overview of what you can expect to do the first few weeks:
 ### Week 3:
 * Continue activities from Week 2
 * Start Learning Project that connects Ember to Django via JSON-API
-* Begin investigation on possible internship project ideas
+* Begin investigating internship project or move on to first assignment
 
 ## 0. Getting Started
 
-To start your onboarding process, we need to get your tech set up! Starting with your computer, if it is not freshly paved, do so by restarting holding `cmd+r` until you reach recovery tools. Erase the Macintosh HD and re-install the OS.
+*Repave*: To start your onboarding process, we need to get your tech set up! Starting with your computer, if it is not freshly paved, do so by restarting holding `cmd+r` until you reach recovery tools. Erase the Macintosh HD and re-install the OS.
 
 A few notes when setting up your computer:
 * Make sure to turn on FileVault
@@ -73,7 +73,7 @@ During the first few days of getting started, you'll go around and meet the rest
 A barrier to entry into developing with our tech stack is learning to use our tools. You should start by getting a primer in Vim and Git. Use the following tools:
 * [Vim Adventures](https://vim-adventures.com/) brings together RPG and learning. Management will need to get you a license to make it beyond the first levels
 * More interested in straight forward reading? Work your way through Vimtutor by typing `vimtutor` into the command line (Dev tip: I completed Vimtutor after Vim-Advetnures as a review)
-* [Git Hub](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase, too
+* [Githug](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase, too
 
 Before starting down a particular track (Django or Ember), it's best to have a good foundation in both underlying languages: Python and JavaScript. Here at IMT, we have the entire Lynda learning platform available to us. There are also many free resouces available online. Here are some that we recommend:
 * Python
@@ -87,7 +87,7 @@ Before starting down a particular track (Django or Ember), it's best to have a g
 
 ## 2. Real cards with the dev team
 
-To help you hit the ground running and to learn our workflow, you will start working with the dev team on real projects as soon as you have your dev environment set up. If you know what path interests you already (Javascript/Ember or Python/Django) - hope on cards related to that path. If you are still undecided, take a sampling.
+To help you hit the ground running and to learn our workflow, you will start working with the dev team on real projects as soon as you have your dev environment set up. If you know what path interests you already (Javascript/Ember or Python/Django), hop on cards related to that path. If you are still undecided, take a sampling.
 
 The best way to start working on real cards is to pay attention during planning meetings and see what cards interest you. Then reach out to the developer working on the card and ask when would be a good time to buddy up for an hour or two. You may also be approached or suggested to work on certain cards depending on what the team has going on at the moment.
 
