@@ -11,11 +11,10 @@ This is an overview of what you can expect to do the first few weeks:
 * Table of Contents
 * Tentative Schedule for Onboarding
 0. Getting Started
-1. Primer in Dev Environment and Workflow[Primer in Dev Environment and Workflow](#1-primer-in-dev-environment-and-workflow)
-2. Pick your path
-3. Language & Framework Study
-4. Real cards with dev team
-5. Spread your wings
+1. [Primer](#1-primer-in-dev-environment-and-workflow)
+2. Real cards with dev team
+3. Pick your path + Framework Study
+4. Spread your wings
 
 ## Tentative Schedule for Onboarding
 
@@ -76,25 +75,44 @@ A barrier to entry into developing with our tech stack is learning to use our to
 * More interested in straight forward reading? Work your way through Vimtutor by typing `vimtutor` into the command line (Dev tip: I completed Vimtutor after Vim-Advetnures as a review)
 * [Git Hub](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase, too
 
-During the first week, you will be expected to figure out which tech stack you'd prefer focusing on: Frontend (JavaScript/Ember) or Backend (Django/Python). We will help you decide by giving presentations on the systems, their patterns, our codebase and looking at actual project cards.
-
-Before starting down a particular track, you'll want to make sure you have a good foundation of that system. We recomment using:
+Before starting down a particular track (Django or Ember), it's best to have a good foundation in both underlying languages: Python and JavaScript. Here at IMT, we have the entire Lynda learning platform available to us. There are also many free resouces available online. Here are some that we recommend:
 * Python
   * [Python Koans](https://github.com/gregmalcolm/python_koans) for Python test based learning
+  * Lynda [Learning Python](https://www.lynda.com/Python-tutorials/Learning-Python/661773-2.html)
+  * Lynda [Advanced Python](https://www.lynda.com/Python-tutorials/Advanced-Python/699337-2.html)
 * JavaScript
   * [JavaScript for Cats](http://jsforcats.com/) is a dev tools console based learning tutorial
   * [JavaScript30](https://javascript30.com/) is a fun video course offered by Wes Bos
 `dev note: we need a more complete list`
 
-## A Suggestion for Developing Work Skills and Relationships
+## 2. Real cards with the dev team
 
-Help docs on pairing effectively:
+To help you hit the ground running and to learn our workflow, you will start working with the dev team on real projects as soon as you have your dev environment set up. If you know what path interests you already (Javascript/Ember or Python/Django) - hope on cards related to that path. If you are still undecided, take a sampling.
+
+The best way to start working on real cards is to pay attention during planning meetings and see what cards interest you. Then reach out to the developer working on the card and ask when would be a good time to buddy up for an hour or two. You may also be approached or suggested to work on certain cards depending on what the team has going on at the moment.
+
+If you are new to pairing or just want to review best practices, here are some docs on pairing effectively:
 - ExtremeProgramming [pairing documentation](http://www.extremeprogramming.org/rules/pair.html)
 - [Why pair?](https://skorks.com/2009/07/effective-vs-ineffective-pair-programming/) Different pairing scenarios
 - [7 ways to win with pair programming](https://www.codementor.io/sommardahl/7-ways-to-win-with-pair-programming-6zkntwkrk)
 - Satire: [How to kill pair programming](https://awkwardcoder.com/10-ways-to-kill-pair-programming-8370a2b7e03a)
-- Mob programming 1 https://underthehood.meltwater.com/blog/2016/06/01/mob-programming/
-- Mob programming 2 https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c
+
+We also ocassionally practice mob programming, such as during the making of our reference app. Read more about mob programming here:
+- [Mob programming basics](https://underthehood.meltwater.com/blog/2016/06/01/mob-programming/)
+- [What I learnt mob programming for 5 months](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
+
+## 3. Pick your path: Ember or Django?
+During the first week or two, you will be expected to figure out which tech stack you'd prefer focusing on: Frontend (JavaScript/Ember) or Backend (Django/Python). We will help you decide by giving presentations on the systems, their patterns, our codebase and looking at actual project cards.
+
+Once you have selected your area of interest, start in on some tutorials and learning projects in your area of interest:
+* Django
+  * [Python Koans](https://github.com/gregmalcolm/python_koans) for Python test based learning
+* Ember
+  * [Ember Docs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)
+  * [Ember Mirage Docs](http://www.ember-cli-mirage.com/docs/v0.4.x/)
+  
+  
+
 
 
 Help Docs:
@@ -106,7 +124,6 @@ Go through and find granular details on:
 - Presentations that will be given?
 - What tutorials we'll be having them do?
 - What new hire tasks should we have them do?
-
 
 Dotfiles:
 - Replace syntastic to Ale
