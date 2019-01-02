@@ -11,10 +11,10 @@ This is an overview of what you can expect to do the first few weeks:
 * Table of Contents
 * Tentative Schedule for Onboarding
 0. Getting Started
-1. Primer in Dev Environment and Workflow
-1a. Pick your path
-2. Language Primer & Framework Primer
-2a. Real cards with dev team
+1a. Primer in Dev Environment and Workflow
+1b. Pick your path
+2a. Language Primer & Framework Primer
+2b. Real cards with dev team
 3. Intern Project/First Assignment
 
 
