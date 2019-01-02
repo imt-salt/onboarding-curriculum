@@ -6,6 +6,19 @@ To help streamline the onboarding process, we have developed this curriculum. Th
 
 This is an overview of what you can expect to do the first few weeks:
 
+## Table of Contents
+* Welcome!
+* Table of Contents
+* Tentative Schedule for Onboarding
+* 0. Getting Started
+* 1. Primer in Dev Environment and Workflow
+* 2. Language Primer
+* 3. Framework Primer
+* 4. Real Cards
+* 5. Intern Project/First Assignment
+
+
+
 ## Tentative Schedule for Onboarding
 
 ### Week 1:
