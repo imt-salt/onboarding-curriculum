@@ -72,18 +72,25 @@ Except instead of setting `caps` to `no action`
 
 A barrier to entry into developing with our tech stack is learning to use our tools. You should start by getting a primer in Vim and Git. Use the following tools:
 * [Vim Adventures](https://vim-adventures.com/) brings together RPG and learning. Management will need to get you a license to make it beyond the first levels
-* More interested in straight forward reading? Work your way through Vimtutor by typing `vimtutor` into the command line (Dev tip: I completed Vimtutor after Vim-Advetnures as a review)
-* [Githug](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase, too
+* [Vimtutor](https://superuser.com/questions/246487/how-to-use-vimtutor) will appeal to those more interested linear/reading based learning. Work your way through Vimtutor by typing `vimtutor` into the command line (Dev tip: I completed Vimtutor after Vim-Advetnures as a review - it helpes me solidify my knowledge)
+* [Githug](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase or cherrypick, too
 
 Before starting down a particular track (Django or Ember), it's best to have a good foundation in both underlying languages: Python and JavaScript. Here at IMT, we have the entire Lynda learning platform available to us. There are also many free resouces available online. Here are some that we recommend:
 * Python
   * [Python Koans](https://github.com/gregmalcolm/python_koans) for Python test based learning
-  * Lynda [Learning Python](https://www.lynda.com/Python-tutorials/Learning-Python/661773-2.html)
-  * Lynda [Advanced Python](https://www.lynda.com/Python-tutorials/Advanced-Python/699337-2.html)
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Learning Python](https://www.lynda.com/Python-tutorials/Learning-Python/661773-2.html)
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Advanced Python](https://www.lynda.com/Python-tutorials/Advanced-Python/699337-2.html)
+  * [Python for Everybody](https://www.py4e.com/)
+  * [Trey Hunter Tutorials](https://www.crowdcast.io/treyhunner)
+  * Interactive Python: [Tutorial 1](http://interactivepython.org/runestone/static/thinkcspy/index.html) and [Tutorial 2](http://interactivepython.org/runestone/static/pythonds/index.html#problem-solving-with-algorithms-and-data-structures-using-python)
 * JavaScript
-  * [JavaScript for Cats](http://jsforcats.com/) is a dev tools console based learning tutorial
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Essentials](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Scope](https://www.lynda.com/JavaScript-tutorials/different-types-scope/734662/779146-4.html)
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Functional JS](https://www.lynda.com/JavaScript-tutorials/Filtering/585272/634542-4.html)
+  * [JavaScript for Cats](http://jsforcats.com/) is a dev tools/console based learning tutorial
+  * [MDN WebDocs: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
   * [JavaScript30](https://javascript30.com/) is a fun video course offered by Wes Bos
-`dev note: we need a more complete list`
+This is not an exhaustive list. Feel free to find your own resources. If you think they are useful, send them to someone on the dev team to add to this list.
 
 ## 2. Real cards with the dev team
 
@@ -106,7 +113,7 @@ During the first week or two, you will be expected to figure out which tech stac
 
 Once you have selected your area of interest, start in on some tutorials and learning projects in your area of interest:
 * Django
-  * [Python Koans](https://github.com/gregmalcolm/python_koans) for Python test based learning
+  * Lynda: [Django Portfolio](https://www.lynda.com/Django-tutorials/Building-Personal-Portfolio-Django/761962-2.html)
 * Ember
   * [Ember Docs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)
   * [Ember Mirage Docs](http://www.ember-cli-mirage.com/docs/v0.4.x/)
