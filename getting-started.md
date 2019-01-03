@@ -140,7 +140,7 @@ From Mike on [general startup notes]()
 
 
 Go through and find granular details on:
-- Presentations that will be given?
+- Presentations that will be given? [Presentations Planning](https://docs.google.com/spreadsheets/d/1eGCFKdOF84vYwuNq90EwSnitzmTwMkldxiBPXtbFYTM/edit#gid=0)
 - What tutorials we'll be having them do?
 - What new hire tasks should we have them do?
 
