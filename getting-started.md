@@ -124,6 +124,18 @@ Once you have selected your area of interest, start in on some tutorials and lea
 
 Help Docs:
 From Matt on [Vim shortcuts](https://gist.github.com/mattjmorrison/69329b96217b384eb5a8)
+--> Update Gist to include Snippet tips:
+* Access snippets by typing '9ue'
+* To use snippets, type the shortcut, then press tab
+* So to use
+```
+snippet pprint "import ppring" !b
+from pprint import pprint
+pprint(${0})
+endsnippet
+```
+* Type: `pprint<tab>`
+
 From Mike on [general startup notes]()
 
 
