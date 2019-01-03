@@ -22,13 +22,13 @@ This is an overview of what you can expect to do the first few weeks:
 * Setup computer and  accounts
 * Meet CS department
 * Get a dev primer with Vim Adventures and Git Hug
+* Work with dev team members on actual project cards
 * Attend presentations on our codebase, architecture and workflow
-* Start down one of two paths: Python/Django or JavaScript/Ember
 
 ### Week 2:
 * Continue primer in your chosen interest area
-* Pair with dev team members on codebase contribution cards
 * Begin doing new hire cards
+* Start down one of two paths: Python/Django or JavaScript/Ember
 * Do some framework startup tutorials pairing with developers
 
 ### Week 3:
