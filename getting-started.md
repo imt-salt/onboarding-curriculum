@@ -48,8 +48,9 @@ This is an overview of what you can expect to do the first few weeks:
 
 **Dotfiles:** At IMT, we like to use a consistent, well vetted dev environment. To begin setting this up, install the system dotfiles [using these instructions](https://github.com/mattjmorrison/dotfiles). This will setup consistent dotfiles with the rest of the team. It will also install Vim, tmux, homebrew and other software.
 
-**Dev Machine:** Additional steps should to taken to Set up [development machine](https://github.com/imtapps/dev-docs/wiki/Development-Machine-Setup). (Note: depending on what version of mac you have you may need to use the second IP address for the Internal DNS)
 Investigate the [system dotfiles](https://github.com/mattjmorrison/dotfiles) structures on your Mac and check out the instructions in the repo. Note: You'll want to create a repo and make any customizations to your dotfiles in the `custom-config` folder, as explained in the repo. This will help eliminate merge conflicts when our dotfiles change.
+
+**Dev Machine:** Additional steps should to taken to Set up [development machine](https://github.com/imtapps/dev-docs/wiki/Development-Machine-Setup). (Note: depending on what version of mac you have you may need to use the second IP address for the Internal DNS)
 `dev note: this file should be updated with the correct IP addresses/instructions`
 
 **Homebrew:** Additionally, install the following: `dev note: place these in dotfiles install`
@@ -70,12 +71,12 @@ Except instead of setting `caps` to `no action`
 
 ## 1. Primer in Dev Environment and Workflow
 
-**Dev Environment**:A barrier to entry into developing with our tech stack is learning to use our tools. You should start by getting a primer in Vim and Git. Use the following tools:
+**Dev Environment**: A barrier to entry into developing with our tech stack is learning to use our tools. You should start by getting a primer in Vim and Git. Use the following tools:
 * [Vim Adventures](https://vim-adventures.com/) brings together RPG and learning. Management will need to get you a license to make it beyond the first levels
 * [Vimtutor](https://superuser.com/questions/246487/how-to-use-vimtutor) will appeal to those more interested linear/reading based learning. Work your way through Vimtutor by typing `vimtutor` into the command line (Dev tip: I completed Vimtutor after Vim-Advetnures as a review - it helpes me solidify my knowledge)
 * [Githug](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase or cherrypick, too
 
-Before starting down a particular track (Django or Ember), it's best to have a good foundation in both underlying languages: Python and JavaScript. Here at IMT, we have the entire Lynda learning platform available to us. There are also many free resouces available online. Here are some that we recommend:
+**Language Primer**: Before starting down a particular track (Django or Ember), it's best to have a good foundation in both underlying languages: Python and JavaScript. Here at IMT, we have the entire Lynda learning platform available to us. There are also many free resouces available online. Here are some that we recommend:
 * Python
   * [Python Koans](https://github.com/gregmalcolm/python_koans) for Python test based learning
   * [Lynda](https://theimtgroup.myabsorb.com/): [Learning Python](https://www.lynda.com/Python-tutorials/Learning-Python/661773-2.html)
