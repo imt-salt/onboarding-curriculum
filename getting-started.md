@@ -113,12 +113,18 @@ During the first week or two, you will be expected to figure out which tech stac
 
 Once you have selected your area of interest, start in on some tutorials and learning projects in your area of interest:
 * Django
-  * Lynda: [Django Portfolio](https://www.lynda.com/Django-tutorials/Building-Personal-Portfolio-Django/761962-2.html)
+  * [Django: Testing Goal](https://www.obeythetestinggoat.com/)**TDD**
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Django Portfolio](https://www.lynda.com/Django-tutorials/Building-Personal-Portfolio-Django/761962-2.html)
+  * [Django Documentation Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
+  * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+  * [Django REST Framework](http://www.django-rest-framework.org/#tutorial)
 * Ember
-  * [Ember Docs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)
+  * [Ember Docs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)**Do the testing portions**
   * [Ember Mirage Docs](http://www.ember-cli-mirage.com/docs/v0.4.x/)
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Learning Ember.js](https://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html)
+  * [Lynda](https://theimtgroup.myabsorb.com/): [Ember.js Essential Training](https://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html)
   
-  
+  https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/ [dated?]
 
 
 
