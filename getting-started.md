@@ -10,10 +10,10 @@ This is an overview of what you can expect to do the first few weeks:
 * Welcome!
 * Table of Contents
 * Tentative Schedule for Onboarding
-0. Getting Started
+0. [Getting Started](#0-getting-started)
 1. [Primer](#1-primer-in-dev-environment-and-workflow)
-2. Real cards with dev team
-3. Pick your path + Framework Study
+2. [Real cards with dev team](#2-real-cards-with-the-dev-team)
+3. [Pick your path + Framework Study](#3-pick-your-path-ember-or-django)
 4. Spread your wings
 
 ## Tentative Schedule for Onboarding
@@ -70,7 +70,7 @@ Except instead of setting `caps` to `no action`
 
 ## 1. Primer in Dev Environment and Workflow
 
-A barrier to entry into developing with our tech stack is learning to use our tools. You should start by getting a primer in Vim and Git. Use the following tools:
+**Dev Environment**:A barrier to entry into developing with our tech stack is learning to use our tools. You should start by getting a primer in Vim and Git. Use the following tools:
 * [Vim Adventures](https://vim-adventures.com/) brings together RPG and learning. Management will need to get you a license to make it beyond the first levels
 * [Vimtutor](https://superuser.com/questions/246487/how-to-use-vimtutor) will appeal to those more interested linear/reading based learning. Work your way through Vimtutor by typing `vimtutor` into the command line (Dev tip: I completed Vimtutor after Vim-Advetnures as a review - it helpes me solidify my knowledge)
 * [Githug](https://github.com/Gazler/githug) will get you up to speed with git flow - cetnral to our workflow. Make sure to take notes of the advanced maneuvers - one day *you* may need to rebase or cherrypick, too
@@ -96,6 +96,11 @@ This is not an exhaustive list. Feel free to find your own resources. If you thi
 
 To help you hit the ground running and to learn our workflow, you will start working with the dev team on real projects as soon as you have your dev environment set up. If you know what path interests you already (Javascript/Ember or Python/Django), hop on cards related to that path. If you are still undecided, take a sampling.
 
+Some things you should expect to see while partnering:
+* [Test driven design](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html) - We believe in TDD on the dev team. It's the simple process of writing a failing test of what functionality or design you expect, and then making the test past. Even if TDD is followed, it is important to make sure your code is **rigorously tested** before it is pushed into production.
+* [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) and [Continous Delivery](Continuous Delivery)
+* [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+
 The best way to start working on real cards is to pay attention during planning meetings and see what cards interest you. Then reach out to the developer working on the card and ask when would be a good time to buddy up for an hour or two. You may also be approached or suggested to work on certain cards depending on what the team has going on at the moment.
 
 If you are new to pairing or just want to review best practices, here are some docs on pairing effectively:
@@ -113,34 +118,37 @@ During the first week or two, you will be expected to figure out which tech stac
 
 Once you have selected your area of interest, start in on some tutorials and learning projects in your area of interest:
 * Django
-  * [Django: Testing Goal](https://www.obeythetestinggoat.com/)**TDD**
+  * [Django: Testing Goal](https://www.obeythetestinggoat.com/)**(Recomended for focus on TDD)**
   * [Lynda](https://theimtgroup.myabsorb.com/): [Django Portfolio](https://www.lynda.com/Django-tutorials/Building-Personal-Portfolio-Django/761962-2.html)
   * [Django Documentation Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
   * [Django REST Framework](http://www.django-rest-framework.org/#tutorial)
 * Ember
-  * [Ember Docs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)**Do the testing portions**
+  * [Ember Docs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/)**(Recommended to do testing portions)**
   * [Ember Mirage Docs](http://www.ember-cli-mirage.com/docs/v0.4.x/)
   * [Lynda](https://theimtgroup.myabsorb.com/): [Learning Ember.js](https://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html)
   * [Lynda](https://theimtgroup.myabsorb.com/): [Ember.js Essential Training](https://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html)
+* More tutorials and information can be found in this [Dev-Doc](https://github.com/imtapps/dev-docs/wiki/New-Hire-Tutorials)
   
-  https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/ [dated?]
+**Before Moving On** we would like to see you be able to connect Ember and Django together. While you have chosen to focus in one or the other area, it is important to know how they work togehter. You will be assigned a specific topic, or you may come up with one yourself. More details to come. This tutorial on [making ember and django play nicely](https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/) will help.
 
 
-
-Help Docs:
+## X. Additional steps in this doc
+Additional Help Docs:
 From Matt on [Vim shortcuts](https://gist.github.com/mattjmorrison/69329b96217b384eb5a8)
---> Update Gist to include Snippet tips:
-* Access snippets by typing '9ue'
-* To use snippets, type the shortcut, then press tab
-* So to use
+--> Update Gist 
+1. Is it necessary to include vagrent sections?
+2. Include Snippet tips:
+  * Access snippets by typing '9ue'
+  * To use snippets, type the shortcut, then press tab
+  * So to use
 ```
 snippet pprint "import ppring" !b
 from pprint import pprint
 pprint(${0})
 endsnippet
 ```
-* Type: `pprint<tab>`
+  * Type: `pprint<tab>`
 
 From Mike on [general startup notes]()
 
