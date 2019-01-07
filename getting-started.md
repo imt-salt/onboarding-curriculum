@@ -63,8 +63,13 @@ Investigate the [system dotfiles](https://github.com/mattjmorrison/dotfiles) str
 
 **Pyenv + Virtualenv:** Get [pyenv](https://github.com/pyenv/pyenv) and [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) setup using their respective instructions. This can be tricky, so let someone know if you catch a snag. Now might be a good time to add some shell enhancements and aliases to `custom-config` in your `dotfiles` for `pyenv`
 
-**Caps replace:** Replace `caps` with `escape/ctrl` using `Karabiner-Elements` using [these instructions](https://github.com/tekezo/Karabiner-Elements/issues/8#issuecomment-348611260)
-Except instead of setting `caps` to `no action`
+**Caps replace:** Replace `caps` with `escape/ctrl` using `Karabiner-Elements`
+* In Karabiner select 'Preferences' -> 'Complex Modifications'
+* Select 'Add Rule'
+* 'Import more rules from the Internet'
+* Search for 'Change caps_lock key (rev 2)', import
+* Enable 'Change caps_lock to control if pressed with other keys, to escape if pressed alone.'
+
 
 **Meet and Greet:** During the first few days of getting started, you'll go around and meet the rest of the IMT Computer Services crew. Our team makes up a small fraction of the total IMT Company, because we are actually a software company within an insurance company! During you're rounds, you'll meet our different Computer Service areas including Support, QA (Quality Assurance), Marketing, MIPS/APPS Developers and other management.
 
@@ -82,7 +87,7 @@ Except instead of setting `caps` to `no action`
   * [Lynda](https://theimtgroup.myabsorb.com/): [Learning Python](https://www.lynda.com/Python-tutorials/Learning-Python/661773-2.html)
   * [Lynda](https://theimtgroup.myabsorb.com/): [Advanced Python](https://www.lynda.com/Python-tutorials/Advanced-Python/699337-2.html)
   * [Python for Everybody](https://www.py4e.com/)
-  * [Trey Hunter Tutorials](https://www.crowdcast.io/treyhunner)
+  * [Trey Hunner Tutorials](https://www.crowdcast.io/treyhunner)
   * Interactive Python: [Tutorial 1](http://interactivepython.org/runestone/static/thinkcspy/index.html) and [Tutorial 2](http://interactivepython.org/runestone/static/pythonds/index.html#problem-solving-with-algorithms-and-data-structures-using-python)
 * JavaScript
   * [Lynda](https://theimtgroup.myabsorb.com/): [Essentials](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
@@ -98,7 +103,7 @@ This is not an exhaustive list. Feel free to find your own resources. If you thi
 To help you hit the ground running and to learn our workflow, you will start working with the dev team on real projects as soon as you have your dev environment set up. If you know what path interests you already (Javascript/Ember or Python/Django), hop on cards related to that path. If you are still undecided, take a sampling.
 
 Some things you should expect to see while partnering:
-* [Test driven design](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html) - We believe in TDD on the dev team. It's the simple process of writing a failing test of what functionality or design you expect, and then making the test past. Even if TDD is followed, it is important to make sure your code is **rigorously tested** before it is pushed into production.
+* [Test Driven Development](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html) - We believe in TDD on the dev team. It's the simple process of writing a failing test of what functionality or design you expect, and then making the test past. Even if TDD is followed, it is important to make sure your code is **rigorously tested** before it is pushed into production.
 * [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) and [Continous Delivery](Continuous Delivery)
 * [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 
