@@ -96,6 +96,7 @@ Investigate the [system dotfiles](https://github.com/mattjmorrison/dotfiles) str
   * [JavaScript for Cats](http://jsforcats.com/) is a dev tools/console based learning tutorial
   * [MDN WebDocs: A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
   * [JavaScript30](https://javascript30.com/) is a fun video course offered by Wes Bos
+  
 This is not an exhaustive list. Feel free to find your own resources. If you think they are useful, send them to someone on the dev team to add to this list.
 
 ## 2. Real cards with the dev team
@@ -124,7 +125,7 @@ During the first week or two, you will be expected to figure out which tech stac
 
 Once you have selected your area of interest, start in on some tutorials and learning projects in your area of interest:
 * Django
-  * [Django: Testing Goal](https://www.obeythetestinggoat.com/)**(Recomended for focus on TDD)**
+  * [Django: Obey the Testing Goat](https://www.obeythetestinggoat.com/)**(Recomended for focus on TDD)**
   * [Lynda](https://theimtgroup.myabsorb.com/): [Django Portfolio](https://www.lynda.com/Django-tutorials/Building-Personal-Portfolio-Django/761962-2.html)
   * [Django Documentation Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
@@ -136,7 +137,7 @@ Once you have selected your area of interest, start in on some tutorials and lea
   * [Lynda](https://theimtgroup.myabsorb.com/): [Ember.js Essential Training](https://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html)
 * More tutorials and information can be found in this [Dev-Doc](https://github.com/imtapps/dev-docs/wiki/New-Hire-Tutorials)
   
-**Before Moving On** we would like to see you be able to connect Ember and Django together. While you have chosen to focus in one or the other area, it is important to know how they work togehter. You will be assigned a specific topic, or you may come up with one yourself. More details to come. This tutorial on [making ember and django play nicely](https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/) will help.
+**Before Moving On** we would like to see you be able to connect Ember and Django together. While you have chosen to focus in one or the other area, it is important to know how they work together. You will be assigned a specific topic, or you may come up with one yourself. More details to come. This tutorial on [making ember and django play nicely](https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/) will help.
 
 
 ## X. Additional steps in this doc
